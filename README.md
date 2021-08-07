@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 ```
-## Project bach-end data
+## Project backend data
 ```
 npm run backend
 ```
