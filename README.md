@@ -9,7 +9,10 @@ npm install
 ```
 npm run serve
 ```
-
+## Project bach-end data
+```
+npm run backend
+```
 ### Compiles and minifies for production
 ```
 npm run build
